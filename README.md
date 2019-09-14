@@ -24,6 +24,18 @@ Then separated the dataset into the corresponding train/test/val files and voila
 Training had no complication, I just plugged my self-made and customized dataset previously constructed to resamble the dataset of facades used on the tensorflow implementation. And trained this with 20 EPOCHS as my 4 year old GTX 1060 GB can't handle more running time without crushing and got some interesting results.
 
 **Results**
+<p align="center">
+  <img src="Results/Predicted1.png" width="350" alt="accessibility text">
+</p>
+<p align="center">
+  <img src="Results/Predicted2.png" width="350" alt="accessibility text">
+</p>
+<p align="center">
+  <img src="Results/Predicted3.png" width="350" alt="accessibility text">
+</p>
+<p align="center">
+  <img src="Results/Predicted4.png" width="350" alt="accessibility text">
+</p>
 
 **Conclusions**
 As you can see results are quite impressive. The model has learned a very good mapping between sketches and faces. If this model had more data images and most importanly more trained epochs this model could achieve more than impressive results and be the state of the art implementations for facial composite , removing the use of facial composite software and increasing the chance of recognising criminals. On both cameras as it could be paired with face recognition, and the awareness of citizens towards the criminals would increase as they would have a face to compare to, therefore increasing the chance one more time of recognising this criminals.
