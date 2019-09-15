@@ -34,7 +34,7 @@ Training had no complication, I just plugged my self-made and customized dataset
   <img src="Results/Predicted5.png" width="350" alt="accessibility text">
 </p>
 <p align="center">
-  <img src="Results/Predicted6.png" width="350" alt="accessibility text">
+  <img src="Results/predicted6.png" width="350" alt="accessibility text">
 </p>
 <h2>To run it!</h2>
 -Pre-requisites:
