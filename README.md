@@ -36,6 +36,23 @@ Training had no complication, I just plugged my self-made and customized dataset
 <p align="center">
   <img src="Results/Predicted4.png" width="350" alt="accessibility text">
 </p>
+<h2>To run it!</h2>
+-Pre-requisites:
+  - tf-nightly-gpu-2.0-preview
+  - Most used Data Science frameworks:Numpy,PILLOW,...matplotlib
+  - A GPU with Cuda
+  
+-Download the repository
 
+*Personal Training*:
+  -Run the notebook on jupyter notebook,google colab or any notebook environment
+  -On the second code block enter the path of where the facialcomposite dataset is found
+  -Run all cells
+  
+*Use Weights*:
+  -Run the notebook on jupyter notebook,google colab or any notebook environment
+  -On the second code block enter the path of where the facialcomposite dataset is found
+  -Use the weights 100Epochs from the weight folder to run the model
+  
 **Conclusions**
 As you can see results are quite impressive. The model has learned a very good mapping between sketches and faces. If this model had more data images and most importanly more trained epochs this model could achieve more than impressive results and be the state of the art implementations for facial composite , removing the use of facial composite software and increasing the chance of recognising criminals. On both cameras as it could be paired with face recognition, and the awareness of citizens towards the criminals would increase as they would have a face to compare to, therefore increasing the chance one more time of recognising this criminals.
