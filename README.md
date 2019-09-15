@@ -50,9 +50,8 @@ Training had no complication, I just plugged my self-made and customized dataset
   -Run all cells
   
 *Use Weights*:
-  -Run the pretrained_FacialComposite.ipynb notebook
   -Load the weights from the **training_checkpoints** to run the model
-  -Run all cells
+  -Execute model with this weights
   
 **Conclusions**
 As you can see results are quite impressive. The model has learned a very good mapping between sketches and faces. If this model had more data images and most importanly more trained epochs this model could achieve more than impressive results and be the state of the art implementations for facial composite , removing the use of facial composite software and increasing the chance of recognising criminals. On both cameras as it could be paired with face recognition, and the awareness of citizens towards the criminals would increase as they would have a face to compare to, therefore increasing the chance one more time of recognising this criminals.
